@@ -1,0 +1,235 @@
+C:\Users\ASUS\Source\Repos\WinFormsAppLOA\WinFormsAppLOA\bin\Debug\net6.0-windows\WinFormsAppLOA.exe
+C:\Users\ASUS\Source\Repos\WinFormsAppLOA\WinFormsAppLOA\bin\Debug\net6.0-windows\WinFormsAppLOA.deps.json
+C:\Users\ASUS\Source\Repos\WinFormsAppLOA\WinFormsAppLOA\bin\Debug\net6.0-windows\WinFormsAppLOA.runtimeconfig.json
+C:\Users\ASUS\Source\Repos\WinFormsAppLOA\WinFormsAppLOA\bin\Debug\net6.0-windows\WinFormsAppLOA.dll
+C:\Users\ASUS\Source\Repos\WinFormsAppLOA\WinFormsAppLOA\bin\Debug\net6.0-windows\WinFormsAppLOA.pdb
+C:\Users\ASUS\Source\Repos\WinFormsAppLOA\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\ASUS\Source\Repos\WinFormsAppLOA\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS\Source\Repos\WinFormsAppLOA\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ASUS\Source\Repos\WinFormsAppLOA\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\ASUS\Source\Repos\WinFormsAppLOA\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\ASUS\Source\Repos\WinFormsAppLOA\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ASUS\Source\Repos\WinFormsAppLOA\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ASUS\Source\Repos\WinFormsAppLOA\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\ASUS\Source\Repos\WinFormsAppLOA\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\Source\Repos\WinFormsAppLOA\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\Source\Repos\WinFormsAppLOA\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ASUS\Source\Repos\WinFormsAppLOA\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ASUS\Source\Repos\WinFormsAppLOA\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ASUS\Source\Repos\WinFormsAppLOA\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+C:\Users\ASUS\Source\Repos\WinFormsAppLOA\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\ASUS\Source\Repos\WinFormsAppLOA\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS\Source\Repos\WinFormsAppLOA\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\Source\Repos\WinFormsAppLOA\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\ASUS\Source\Repos\WinFormsAppLOA\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\ASUS\Source\Repos\WinFormsAppLOA\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\ASUS\Source\Repos\WinFormsAppLOA\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\ASUS\Source\Repos\WinFormsAppLOA\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\ASUS\Source\Repos\WinFormsAppLOA\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\Source\Repos\WinFormsAppLOA\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\ASUS\Source\Repos\WinFormsAppLOA\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\Source\Repos\WinFormsAppLOA\WinFormsAppLOA\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\ASUS\Source\Repos\WinFormsAppLOA\WinFormsAppLOA\bin\Debug\net6.0-windows\WebDriver.Support.dll
+C:\Users\ASUS\Source\Repos\WinFormsAppLOA\WinFormsAppLOA\bin\Debug\net6.0-windows\WebDriver.dll
+C:\Users\ASUS\Source\Repos\WinFormsAppLOA\WinFormsAppLOA\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\ASUS\Source\Repos\WinFormsAppLOA\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.csproj.AssemblyReference.cache
+C:\Users\ASUS\Source\Repos\WinFormsAppLOA\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.FormLOA.resources
+C:\Users\ASUS\Source\Repos\WinFormsAppLOA\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.csproj.GenerateResource.cache
+C:\Users\ASUS\Source\Repos\WinFormsAppLOA\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Source\Repos\WinFormsAppLOA\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.AssemblyInfoInputs.cache
+C:\Users\ASUS\Source\Repos\WinFormsAppLOA\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.AssemblyInfo.cs
+C:\Users\ASUS\Source\Repos\WinFormsAppLOA\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Source\Repos\WinFormsAppLOA\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.csproj.CopyComplete
+C:\Users\ASUS\Source\Repos\WinFormsAppLOA\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.dll
+C:\Users\ASUS\Source\Repos\WinFormsAppLOA\WinFormsAppLOA\obj\Debug\net6.0-windows\refint\WinFormsAppLOA.dll
+C:\Users\ASUS\Source\Repos\WinFormsAppLOA\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.pdb
+C:\Users\ASUS\Source\Repos\WinFormsAppLOA\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.genruntimeconfig.cache
+C:\Users\ASUS\Source\Repos\WinFormsAppLOA\WinFormsAppLOA\obj\Debug\net6.0-windows\ref\WinFormsAppLOA.dll
+C:\Users\gerard.ambrocio\Desktop\WinFormsAppLOA_20220804\WinFormsAppLOA\bin\Debug\net6.0-windows\WinFormsAppLOA.exe
+C:\Users\gerard.ambrocio\Desktop\WinFormsAppLOA_20220804\WinFormsAppLOA\bin\Debug\net6.0-windows\WinFormsAppLOA.deps.json
+C:\Users\gerard.ambrocio\Desktop\WinFormsAppLOA_20220804\WinFormsAppLOA\bin\Debug\net6.0-windows\WinFormsAppLOA.runtimeconfig.json
+C:\Users\gerard.ambrocio\Desktop\WinFormsAppLOA_20220804\WinFormsAppLOA\bin\Debug\net6.0-windows\WinFormsAppLOA.dll
+C:\Users\gerard.ambrocio\Desktop\WinFormsAppLOA_20220804\WinFormsAppLOA\bin\Debug\net6.0-windows\ref\WinFormsAppLOA.dll
+C:\Users\gerard.ambrocio\Desktop\WinFormsAppLOA_20220804\WinFormsAppLOA\bin\Debug\net6.0-windows\WinFormsAppLOA.pdb
+C:\Users\gerard.ambrocio\Desktop\WinFormsAppLOA_20220804\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\gerard.ambrocio\Desktop\WinFormsAppLOA_20220804\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\gerard.ambrocio\Desktop\WinFormsAppLOA_20220804\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\gerard.ambrocio\Desktop\WinFormsAppLOA_20220804\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\gerard.ambrocio\Desktop\WinFormsAppLOA_20220804\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\gerard.ambrocio\Desktop\WinFormsAppLOA_20220804\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\gerard.ambrocio\Desktop\WinFormsAppLOA_20220804\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\gerard.ambrocio\Desktop\WinFormsAppLOA_20220804\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\gerard.ambrocio\Desktop\WinFormsAppLOA_20220804\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gerard.ambrocio\Desktop\WinFormsAppLOA_20220804\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gerard.ambrocio\Desktop\WinFormsAppLOA_20220804\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\gerard.ambrocio\Desktop\WinFormsAppLOA_20220804\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\gerard.ambrocio\Desktop\WinFormsAppLOA_20220804\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\gerard.ambrocio\Desktop\WinFormsAppLOA_20220804\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+C:\Users\gerard.ambrocio\Desktop\WinFormsAppLOA_20220804\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\gerard.ambrocio\Desktop\WinFormsAppLOA_20220804\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\gerard.ambrocio\Desktop\WinFormsAppLOA_20220804\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gerard.ambrocio\Desktop\WinFormsAppLOA_20220804\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\gerard.ambrocio\Desktop\WinFormsAppLOA_20220804\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\gerard.ambrocio\Desktop\WinFormsAppLOA_20220804\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\gerard.ambrocio\Desktop\WinFormsAppLOA_20220804\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\gerard.ambrocio\Desktop\WinFormsAppLOA_20220804\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\gerard.ambrocio\Desktop\WinFormsAppLOA_20220804\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\gerard.ambrocio\Desktop\WinFormsAppLOA_20220804\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\gerard.ambrocio\Desktop\WinFormsAppLOA_20220804\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\gerard.ambrocio\Desktop\WinFormsAppLOA_20220804\WinFormsAppLOA\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\gerard.ambrocio\Desktop\WinFormsAppLOA_20220804\WinFormsAppLOA\bin\Debug\net6.0-windows\WebDriver.Support.dll
+C:\Users\gerard.ambrocio\Desktop\WinFormsAppLOA_20220804\WinFormsAppLOA\bin\Debug\net6.0-windows\WebDriver.dll
+C:\Users\gerard.ambrocio\Desktop\WinFormsAppLOA_20220804\WinFormsAppLOA\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\gerard.ambrocio\Desktop\WinFormsAppLOA_20220804\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.csproj.AssemblyReference.cache
+C:\Users\gerard.ambrocio\Desktop\WinFormsAppLOA_20220804\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.FormLOA.resources
+C:\Users\gerard.ambrocio\Desktop\WinFormsAppLOA_20220804\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.csproj.GenerateResource.cache
+C:\Users\gerard.ambrocio\Desktop\WinFormsAppLOA_20220804\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerard.ambrocio\Desktop\WinFormsAppLOA_20220804\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.AssemblyInfoInputs.cache
+C:\Users\gerard.ambrocio\Desktop\WinFormsAppLOA_20220804\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.AssemblyInfo.cs
+C:\Users\gerard.ambrocio\Desktop\WinFormsAppLOA_20220804\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.csproj.CoreCompileInputs.cache
+C:\Users\gerard.ambrocio\Desktop\WinFormsAppLOA_20220804\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.csproj.CopyComplete
+C:\Users\gerard.ambrocio\Desktop\WinFormsAppLOA_20220804\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.dll
+C:\Users\gerard.ambrocio\Desktop\WinFormsAppLOA_20220804\WinFormsAppLOA\obj\Debug\net6.0-windows\ref\WinFormsAppLOA.dll
+C:\Users\gerard.ambrocio\Desktop\WinFormsAppLOA_20220804\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.pdb
+C:\Users\gerard.ambrocio\Desktop\WinFormsAppLOA_20220804\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\WinFormsAppLOA_FINAL\WinFormsAppLOA\bin\Debug\net6.0-windows\WinFormsAppLOA.exe
+C:\Users\ASUS\Desktop\WinFormsAppLOA_FINAL\WinFormsAppLOA\bin\Debug\net6.0-windows\WinFormsAppLOA.deps.json
+C:\Users\ASUS\Desktop\WinFormsAppLOA_FINAL\WinFormsAppLOA\bin\Debug\net6.0-windows\WinFormsAppLOA.runtimeconfig.json
+C:\Users\ASUS\Desktop\WinFormsAppLOA_FINAL\WinFormsAppLOA\bin\Debug\net6.0-windows\WinFormsAppLOA.dll
+C:\Users\ASUS\Desktop\WinFormsAppLOA_FINAL\WinFormsAppLOA\bin\Debug\net6.0-windows\WinFormsAppLOA.pdb
+C:\Users\ASUS\Desktop\WinFormsAppLOA_FINAL\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\ASUS\Desktop\WinFormsAppLOA_FINAL\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS\Desktop\WinFormsAppLOA_FINAL\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ASUS\Desktop\WinFormsAppLOA_FINAL\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\ASUS\Desktop\WinFormsAppLOA_FINAL\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\ASUS\Desktop\WinFormsAppLOA_FINAL\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ASUS\Desktop\WinFormsAppLOA_FINAL\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ASUS\Desktop\WinFormsAppLOA_FINAL\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\ASUS\Desktop\WinFormsAppLOA_FINAL\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\Desktop\WinFormsAppLOA_FINAL\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\Desktop\WinFormsAppLOA_FINAL\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ASUS\Desktop\WinFormsAppLOA_FINAL\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ASUS\Desktop\WinFormsAppLOA_FINAL\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ASUS\Desktop\WinFormsAppLOA_FINAL\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+C:\Users\ASUS\Desktop\WinFormsAppLOA_FINAL\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\ASUS\Desktop\WinFormsAppLOA_FINAL\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS\Desktop\WinFormsAppLOA_FINAL\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\Desktop\WinFormsAppLOA_FINAL\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\ASUS\Desktop\WinFormsAppLOA_FINAL\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\ASUS\Desktop\WinFormsAppLOA_FINAL\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\ASUS\Desktop\WinFormsAppLOA_FINAL\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\ASUS\Desktop\WinFormsAppLOA_FINAL\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\ASUS\Desktop\WinFormsAppLOA_FINAL\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\Desktop\WinFormsAppLOA_FINAL\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\ASUS\Desktop\WinFormsAppLOA_FINAL\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\Desktop\WinFormsAppLOA_FINAL\WinFormsAppLOA\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\WinFormsAppLOA_FINAL\WinFormsAppLOA\bin\Debug\net6.0-windows\WebDriver.Support.dll
+C:\Users\ASUS\Desktop\WinFormsAppLOA_FINAL\WinFormsAppLOA\bin\Debug\net6.0-windows\WebDriver.dll
+C:\Users\ASUS\Desktop\WinFormsAppLOA_FINAL\WinFormsAppLOA\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\ASUS\Desktop\WinFormsAppLOA_FINAL\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\WinFormsAppLOA_FINAL\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.FormLOA.resources
+C:\Users\ASUS\Desktop\WinFormsAppLOA_FINAL\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\WinFormsAppLOA_FINAL\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\WinFormsAppLOA_FINAL\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\WinFormsAppLOA_FINAL\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\WinFormsAppLOA_FINAL\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\WinFormsAppLOA_FINAL\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.csproj.CopyComplete
+C:\Users\ASUS\Desktop\WinFormsAppLOA_FINAL\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.dll
+C:\Users\ASUS\Desktop\WinFormsAppLOA_FINAL\WinFormsAppLOA\obj\Debug\net6.0-windows\refint\WinFormsAppLOA.dll
+C:\Users\ASUS\Desktop\WinFormsAppLOA_FINAL\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.pdb
+C:\Users\ASUS\Desktop\WinFormsAppLOA_FINAL\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\WinFormsAppLOA_FINAL\WinFormsAppLOA\obj\Debug\net6.0-windows\ref\WinFormsAppLOA.dll
+C:\Users\gerard.ambrocio\Desktop\New folder (2)\WinFormsAppLOA_20220809\WinFormsAppLOA\bin\Debug\net6.0-windows\WinFormsAppLOA.exe
+C:\Users\gerard.ambrocio\Desktop\New folder (2)\WinFormsAppLOA_20220809\WinFormsAppLOA\bin\Debug\net6.0-windows\WinFormsAppLOA.deps.json
+C:\Users\gerard.ambrocio\Desktop\New folder (2)\WinFormsAppLOA_20220809\WinFormsAppLOA\bin\Debug\net6.0-windows\WinFormsAppLOA.runtimeconfig.json
+C:\Users\gerard.ambrocio\Desktop\New folder (2)\WinFormsAppLOA_20220809\WinFormsAppLOA\bin\Debug\net6.0-windows\WinFormsAppLOA.dll
+C:\Users\gerard.ambrocio\Desktop\New folder (2)\WinFormsAppLOA_20220809\WinFormsAppLOA\bin\Debug\net6.0-windows\ref\WinFormsAppLOA.dll
+C:\Users\gerard.ambrocio\Desktop\New folder (2)\WinFormsAppLOA_20220809\WinFormsAppLOA\bin\Debug\net6.0-windows\WinFormsAppLOA.pdb
+C:\Users\gerard.ambrocio\Desktop\New folder (2)\WinFormsAppLOA_20220809\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\gerard.ambrocio\Desktop\New folder (2)\WinFormsAppLOA_20220809\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\gerard.ambrocio\Desktop\New folder (2)\WinFormsAppLOA_20220809\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\gerard.ambrocio\Desktop\New folder (2)\WinFormsAppLOA_20220809\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\gerard.ambrocio\Desktop\New folder (2)\WinFormsAppLOA_20220809\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\gerard.ambrocio\Desktop\New folder (2)\WinFormsAppLOA_20220809\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\gerard.ambrocio\Desktop\New folder (2)\WinFormsAppLOA_20220809\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\gerard.ambrocio\Desktop\New folder (2)\WinFormsAppLOA_20220809\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\gerard.ambrocio\Desktop\New folder (2)\WinFormsAppLOA_20220809\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gerard.ambrocio\Desktop\New folder (2)\WinFormsAppLOA_20220809\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gerard.ambrocio\Desktop\New folder (2)\WinFormsAppLOA_20220809\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\gerard.ambrocio\Desktop\New folder (2)\WinFormsAppLOA_20220809\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\gerard.ambrocio\Desktop\New folder (2)\WinFormsAppLOA_20220809\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\gerard.ambrocio\Desktop\New folder (2)\WinFormsAppLOA_20220809\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+C:\Users\gerard.ambrocio\Desktop\New folder (2)\WinFormsAppLOA_20220809\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\gerard.ambrocio\Desktop\New folder (2)\WinFormsAppLOA_20220809\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\gerard.ambrocio\Desktop\New folder (2)\WinFormsAppLOA_20220809\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gerard.ambrocio\Desktop\New folder (2)\WinFormsAppLOA_20220809\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\gerard.ambrocio\Desktop\New folder (2)\WinFormsAppLOA_20220809\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\gerard.ambrocio\Desktop\New folder (2)\WinFormsAppLOA_20220809\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\gerard.ambrocio\Desktop\New folder (2)\WinFormsAppLOA_20220809\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\gerard.ambrocio\Desktop\New folder (2)\WinFormsAppLOA_20220809\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\gerard.ambrocio\Desktop\New folder (2)\WinFormsAppLOA_20220809\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\gerard.ambrocio\Desktop\New folder (2)\WinFormsAppLOA_20220809\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\gerard.ambrocio\Desktop\New folder (2)\WinFormsAppLOA_20220809\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\gerard.ambrocio\Desktop\New folder (2)\WinFormsAppLOA_20220809\WinFormsAppLOA\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\gerard.ambrocio\Desktop\New folder (2)\WinFormsAppLOA_20220809\WinFormsAppLOA\bin\Debug\net6.0-windows\WebDriver.Support.dll
+C:\Users\gerard.ambrocio\Desktop\New folder (2)\WinFormsAppLOA_20220809\WinFormsAppLOA\bin\Debug\net6.0-windows\WebDriver.dll
+C:\Users\gerard.ambrocio\Desktop\New folder (2)\WinFormsAppLOA_20220809\WinFormsAppLOA\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\gerard.ambrocio\Desktop\New folder (2)\WinFormsAppLOA_20220809\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.csproj.AssemblyReference.cache
+C:\Users\gerard.ambrocio\Desktop\New folder (2)\WinFormsAppLOA_20220809\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.FormLOA.resources
+C:\Users\gerard.ambrocio\Desktop\New folder (2)\WinFormsAppLOA_20220809\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.csproj.GenerateResource.cache
+C:\Users\gerard.ambrocio\Desktop\New folder (2)\WinFormsAppLOA_20220809\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerard.ambrocio\Desktop\New folder (2)\WinFormsAppLOA_20220809\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.AssemblyInfoInputs.cache
+C:\Users\gerard.ambrocio\Desktop\New folder (2)\WinFormsAppLOA_20220809\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.AssemblyInfo.cs
+C:\Users\gerard.ambrocio\Desktop\New folder (2)\WinFormsAppLOA_20220809\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.csproj.CoreCompileInputs.cache
+C:\Users\gerard.ambrocio\Desktop\New folder (2)\WinFormsAppLOA_20220809\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.csproj.CopyComplete
+C:\Users\gerard.ambrocio\Desktop\New folder (2)\WinFormsAppLOA_20220809\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.dll
+C:\Users\gerard.ambrocio\Desktop\New folder (2)\WinFormsAppLOA_20220809\WinFormsAppLOA\obj\Debug\net6.0-windows\ref\WinFormsAppLOA.dll
+C:\Users\gerard.ambrocio\Desktop\New folder (2)\WinFormsAppLOA_20220809\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.pdb
+C:\Users\gerard.ambrocio\Desktop\New folder (2)\WinFormsAppLOA_20220809\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.genruntimeconfig.cache
+L:\SD0086-HJ - LOA Downloading from Ulogic & PDF scraping\source code\WinFormsAppLOA_20220815\WinFormsAppLOA\bin\Debug\net6.0-windows\WinFormsAppLOA.exe
+L:\SD0086-HJ - LOA Downloading from Ulogic & PDF scraping\source code\WinFormsAppLOA_20220815\WinFormsAppLOA\bin\Debug\net6.0-windows\WinFormsAppLOA.deps.json
+L:\SD0086-HJ - LOA Downloading from Ulogic & PDF scraping\source code\WinFormsAppLOA_20220815\WinFormsAppLOA\bin\Debug\net6.0-windows\WinFormsAppLOA.runtimeconfig.json
+L:\SD0086-HJ - LOA Downloading from Ulogic & PDF scraping\source code\WinFormsAppLOA_20220815\WinFormsAppLOA\bin\Debug\net6.0-windows\WinFormsAppLOA.dll
+L:\SD0086-HJ - LOA Downloading from Ulogic & PDF scraping\source code\WinFormsAppLOA_20220815\WinFormsAppLOA\bin\Debug\net6.0-windows\ref\WinFormsAppLOA.dll
+L:\SD0086-HJ - LOA Downloading from Ulogic & PDF scraping\source code\WinFormsAppLOA_20220815\WinFormsAppLOA\bin\Debug\net6.0-windows\WinFormsAppLOA.pdb
+L:\SD0086-HJ - LOA Downloading from Ulogic & PDF scraping\source code\WinFormsAppLOA_20220815\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+L:\SD0086-HJ - LOA Downloading from Ulogic & PDF scraping\source code\WinFormsAppLOA_20220815\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+L:\SD0086-HJ - LOA Downloading from Ulogic & PDF scraping\source code\WinFormsAppLOA_20220815\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+L:\SD0086-HJ - LOA Downloading from Ulogic & PDF scraping\source code\WinFormsAppLOA_20220815\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+L:\SD0086-HJ - LOA Downloading from Ulogic & PDF scraping\source code\WinFormsAppLOA_20220815\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+L:\SD0086-HJ - LOA Downloading from Ulogic & PDF scraping\source code\WinFormsAppLOA_20220815\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+L:\SD0086-HJ - LOA Downloading from Ulogic & PDF scraping\source code\WinFormsAppLOA_20220815\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+L:\SD0086-HJ - LOA Downloading from Ulogic & PDF scraping\source code\WinFormsAppLOA_20220815\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+L:\SD0086-HJ - LOA Downloading from Ulogic & PDF scraping\source code\WinFormsAppLOA_20220815\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+L:\SD0086-HJ - LOA Downloading from Ulogic & PDF scraping\source code\WinFormsAppLOA_20220815\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+L:\SD0086-HJ - LOA Downloading from Ulogic & PDF scraping\source code\WinFormsAppLOA_20220815\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+L:\SD0086-HJ - LOA Downloading from Ulogic & PDF scraping\source code\WinFormsAppLOA_20220815\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+L:\SD0086-HJ - LOA Downloading from Ulogic & PDF scraping\source code\WinFormsAppLOA_20220815\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+L:\SD0086-HJ - LOA Downloading from Ulogic & PDF scraping\source code\WinFormsAppLOA_20220815\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+L:\SD0086-HJ - LOA Downloading from Ulogic & PDF scraping\source code\WinFormsAppLOA_20220815\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+L:\SD0086-HJ - LOA Downloading from Ulogic & PDF scraping\source code\WinFormsAppLOA_20220815\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+L:\SD0086-HJ - LOA Downloading from Ulogic & PDF scraping\source code\WinFormsAppLOA_20220815\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+L:\SD0086-HJ - LOA Downloading from Ulogic & PDF scraping\source code\WinFormsAppLOA_20220815\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+L:\SD0086-HJ - LOA Downloading from Ulogic & PDF scraping\source code\WinFormsAppLOA_20220815\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+L:\SD0086-HJ - LOA Downloading from Ulogic & PDF scraping\source code\WinFormsAppLOA_20220815\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+L:\SD0086-HJ - LOA Downloading from Ulogic & PDF scraping\source code\WinFormsAppLOA_20220815\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+L:\SD0086-HJ - LOA Downloading from Ulogic & PDF scraping\source code\WinFormsAppLOA_20220815\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+L:\SD0086-HJ - LOA Downloading from Ulogic & PDF scraping\source code\WinFormsAppLOA_20220815\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+L:\SD0086-HJ - LOA Downloading from Ulogic & PDF scraping\source code\WinFormsAppLOA_20220815\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+L:\SD0086-HJ - LOA Downloading from Ulogic & PDF scraping\source code\WinFormsAppLOA_20220815\WinFormsAppLOA\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+L:\SD0086-HJ - LOA Downloading from Ulogic & PDF scraping\source code\WinFormsAppLOA_20220815\WinFormsAppLOA\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+L:\SD0086-HJ - LOA Downloading from Ulogic & PDF scraping\source code\WinFormsAppLOA_20220815\WinFormsAppLOA\bin\Debug\net6.0-windows\WebDriver.Support.dll
+L:\SD0086-HJ - LOA Downloading from Ulogic & PDF scraping\source code\WinFormsAppLOA_20220815\WinFormsAppLOA\bin\Debug\net6.0-windows\WebDriver.dll
+L:\SD0086-HJ - LOA Downloading from Ulogic & PDF scraping\source code\WinFormsAppLOA_20220815\WinFormsAppLOA\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+L:\SD0086-HJ - LOA Downloading from Ulogic & PDF scraping\source code\WinFormsAppLOA_20220815\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.csproj.AssemblyReference.cache
+L:\SD0086-HJ - LOA Downloading from Ulogic & PDF scraping\source code\WinFormsAppLOA_20220815\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.FormLOA.resources
+L:\SD0086-HJ - LOA Downloading from Ulogic & PDF scraping\source code\WinFormsAppLOA_20220815\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.csproj.GenerateResource.cache
+L:\SD0086-HJ - LOA Downloading from Ulogic & PDF scraping\source code\WinFormsAppLOA_20220815\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.GeneratedMSBuildEditorConfig.editorconfig
+L:\SD0086-HJ - LOA Downloading from Ulogic & PDF scraping\source code\WinFormsAppLOA_20220815\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.AssemblyInfoInputs.cache
+L:\SD0086-HJ - LOA Downloading from Ulogic & PDF scraping\source code\WinFormsAppLOA_20220815\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.AssemblyInfo.cs
+L:\SD0086-HJ - LOA Downloading from Ulogic & PDF scraping\source code\WinFormsAppLOA_20220815\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.csproj.CoreCompileInputs.cache
+L:\SD0086-HJ - LOA Downloading from Ulogic & PDF scraping\source code\WinFormsAppLOA_20220815\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.csproj.CopyComplete
+L:\SD0086-HJ - LOA Downloading from Ulogic & PDF scraping\source code\WinFormsAppLOA_20220815\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.dll
+L:\SD0086-HJ - LOA Downloading from Ulogic & PDF scraping\source code\WinFormsAppLOA_20220815\WinFormsAppLOA\obj\Debug\net6.0-windows\ref\WinFormsAppLOA.dll
+L:\SD0086-HJ - LOA Downloading from Ulogic & PDF scraping\source code\WinFormsAppLOA_20220815\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.pdb
+L:\SD0086-HJ - LOA Downloading from Ulogic & PDF scraping\source code\WinFormsAppLOA_20220815\WinFormsAppLOA\obj\Debug\net6.0-windows\WinFormsAppLOA.genruntimeconfig.cache
